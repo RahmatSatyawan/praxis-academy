@@ -1,0 +1,21 @@
+cmd
+cd username\programs\start menu
+chdir C:
+copy robin.typ c:\birds
+del "c:\test folder\"
+echo.
+exit
+ipconfig /all
+logoff
+mkdir \Taxes\Property\Current
+
+list disk
+reg add \\ABC\HKLM\Software\MyCo
+rescan
+ping /a 10.0.99.221
+PowerShell.exe -ExecutionPolicy Restricted
+tskill explorer /id:5
+taskkill /pid 1230 /pid 1241 /pid 1253
+whoami /all
+sfc /verifyfile=c:\windows\system32\kernel32.dll
+set testVar=test^^1
